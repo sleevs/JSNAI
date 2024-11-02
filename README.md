@@ -13,3 +13,7 @@ Pré-requisitos
  -  pandas
  
 ### Modelo 1 : Perceptron para conversão de Celsius para Fahrenheit
+
+
+### Modelo 2 : Análise e predição de preços para aluguel de bicicletas
+
