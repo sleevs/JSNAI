@@ -5,10 +5,11 @@ objetivo de compartilhar idéias e conhecimento.
 Pré-requisitos
 
  -  Python 3
- -  pip
- -  Tensorflow
+ -  sklearn
+ -  tensorflow
  -  numpy
  -  seaborn
  -  matplotlib
+ -  pandas
  
 ### Modelo 1 : Perceptron para conversão de Celsius para Fahrenheit
